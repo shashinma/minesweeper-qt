@@ -1,0 +1,2 @@
+# minesweeper
+Qt Minesweeper
